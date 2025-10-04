@@ -3,7 +3,6 @@
 #include <string.h>
 #include <stdlib.h>
 
-/* yylval is provided by bison; we set its fields here */
 extern YYSTYPE yylval;
 %}
 
