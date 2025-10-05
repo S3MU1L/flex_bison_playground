@@ -41,4 +41,3 @@ void symtab_set(const char* name, int val) {
     entries[count].value = val;
     count++;
 }
-
